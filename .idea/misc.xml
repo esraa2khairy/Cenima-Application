@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Cinema2/app/src/main/res/layout/activity_main6.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Cinema2/app/src/main/res/layout/activity_main7.xml" value="0.23505434782608695" />
+        <entry key="..\:/Android/Cinema2/app/src/main/res/layout/activity_tickit.xml" value="0.23505434782608695" />
+        <entry key="..\:/Android/Cinema2/app/src/main/res/layout/cinemas.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Cinema2/app/src/main/res/layout/designfilm.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/Cinema2/app/src/main/res/layout/film.xml" value="0.1" />
+        <entry key="..\:/Cinema2/app/src/main/res/drawable/log_in_button.xml" value="0.21296296296296297" />
+        <entry key="..\:/Cinema2/app/src/main/res/layout/activity_main.xml" value="0.1408514492753623" />
+        <entry key="..\:/Cinema2/app/src/main/res/layout/activity_main2.xml" value="0.1408514492753623" />
+        <entry key="..\:/Cinema2/app/src/main/res/layout/activity_main3.xml" value="0.1408514492753623" />
+        <entry key="..\:/Cinema2/app/src/main/res/layout/activity_main5.xml" value="0.1802536231884058" />
+        <entry key="..\:/Cinema2/app/src/main/res/layout/activity_main6.xml" value="0.1802536231884058" />
+        <entry key="..\:/Cinema2/app/src/main/res/layout/activity_main7.xml" value="0.1408514492753623" />
+        <entry key="..\:/Cinema2/app/src/main/res/layout/activity_ratingus.xml" value="0.1408514492753623" />
+        <entry key="..\:/Cinema2/app/src/main/res/layout/activity_tickit.xml" value="0.1408514492753623" />
+        <entry key="..\:/Cinema2/app/src/main/res/layout/film.xml" value="0.264" />
+        <entry key="..\:/Cinema2/app/src/main/res/layout/fragment_first.xml" value="0.1408514492753623" />
+        <entry key="..\:/Cinema2/app/src/main/res/layout/fragment_second.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/dell/Desktop/Cinema2/app/src/main/res/drawable/shape.xml" value="0.2703125" />
+        <entry key="..\:/Users/dell/Desktop/Cinema2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Cinema2/app/src/main/res/layout/activity_main5.xml" value="0.176" />
+        <entry key="..\:/Users/dell/Desktop/Cinema2/app/src/main/res/layout/activity_main6.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Cinema2/app/src/main/res/layout/activity_main7.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Cinema2/app/src/main/res/layout/activity_tickit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/max/AndroidStudioProjects/Cinema2/app/src/main/res/layout/activity_main.xml" value="0.10460992907801418" />
+        <entry key="..\:/Users/max/AndroidStudioProjects/Cinema2/app/src/main/res/layout/activity_main5.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/max/AndroidStudioProjects/Cinema2/app/src/main/res/layout/activity_main6.xml" value="0.19610507246376813" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
